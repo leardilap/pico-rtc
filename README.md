@@ -1,4 +1,4 @@
-pico-rtc
+# pico-rtc
 
 first download the most recent micropython.uf2 from the website, 
 currently it is `rp2-pico-20220117-v1.18.uf2`
@@ -27,4 +27,10 @@ for example:
 `>>> print("Hello, Pico!")`
 
 to issue a soft reset do control+d, then all python libraries are available to use interactively.
+
+v1:
+https://www.welectron.com/Waveshare-19426-Pico-RTC-DS3231_1
+
+
+# TODO
 
